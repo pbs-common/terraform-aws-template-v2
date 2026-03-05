@@ -4,7 +4,7 @@ go 1.23.0
 
 require (
 	github.com/gruntwork-io/terratest v0.41.18
-	github.com/stretchr/testify v1.8.3
+	github.com/stretchr/testify v1.11.1
 )
 
 require (
